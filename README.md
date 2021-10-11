@@ -1,8 +1,8 @@
-### Hello Everyone 😎
+# Hello Everyone 😎
 ## Bem-vindo ao meu repositório
-# Analise de Dados ✔
-# Python e R 🖥🖲
-# Estudante de BI 🤓
+### Analise de Dados ✔
+### Python e R 🖥🖲
+### Estudante de BI 🤓
 
 <div>
     <a href="https://www.linkedin.com/in/gustavo-coliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
