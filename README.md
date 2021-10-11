@@ -1,7 +1,7 @@
 # Hello Everyone 😎
 ## Bem-vindo ao meu repositório
 ### Analise de Dados ✔
-### Python e R 🖥�
+### Python e R 🖥
 ### Estudante de BI 🤓
 
 <div>
