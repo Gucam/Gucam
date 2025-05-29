@@ -1,4 +1,3 @@
-# Hello Everyone 😎
 ### Analise de Dados ✔
 ### SQL, Python e R 🖥
 
